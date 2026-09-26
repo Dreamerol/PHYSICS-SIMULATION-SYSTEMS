@@ -182,6 +182,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
+
+
+<div align="left">
 
 
 
@@ -239,6 +243,24 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 - 📊 Matplotlib (data visualization)
 - 🧪 Pytest (testing)
 - 🔧 Git (version control)
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
 
 
 ---
